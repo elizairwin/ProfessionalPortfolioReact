@@ -177,9 +177,9 @@ export default class Projects extends Component {
                         <p>The user clicks the clothing buttons to dress the character in an outfit.</p>
                         <p>The 'icebox' includes more outfit/accessory choices for the user to pick from.</p>
                         <ul className="actions">
-                            <li><a href="https://elizairwin.github.io/unit-4-game/" className="button">See the
+                            <li><a href="https://elizairwin.github.io/Dress-Up-Game/" className="button">See the
                       Project</a></li>
-                            <li><a href="https://github.com/elizairwin/unit-4-game" className="button">See the Code</a>
+                            <li><a href="https://github.com/elizairwin/Dress-Up-Game" className="button">See the Code</a>
                             </li>
                         </ul>
                     </article>
