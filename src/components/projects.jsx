@@ -30,7 +30,7 @@ export default class Projects extends Component {
                         <p>There is a 'score' as well as a 'high score' function built in. The user is alerted once the game is over.</p>
                         <p>This app uses all skills learned so far as a full-stack developer.</p>
                         <ul className="actions">
-                            <li><a href="https://elizairwin.github.io/Click-Game/" className="button">See the
+                            <li><a href="https://gentle-plains-07044.herokuapp.com/" className="button">See the
                     Project</a></li>
                             <li><a href="https://github.com/elizairwin/Click-Game" className="button">See the
                     Code</a></li>
