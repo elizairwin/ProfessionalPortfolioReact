@@ -105,7 +105,7 @@ export default class Skills extends Component {
               <i className="fab fa-react" />
             </span>
             <div className="content">
-              <h3>React</h3>
+              <h3>ReactJS</h3>
               <p>A JavaScript library for building user interfaces.</p>
             </div>
           </article>
